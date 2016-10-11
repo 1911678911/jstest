@@ -1,0 +1,25 @@
+{
+  "name": "jstest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "karma.conf.js",
+  "dependencies": {
+    "grunt": "^1.0.1",
+    "jasmine-core": "^2.5.2",
+    "grunt": "~0.4.5",
+    "grunt-contrib-jshint": "~0.10.0",
+    "grunt-contrib-nodeunit": "~0.4.1",
+    "grunt-contrib-uglify": "~0.5.0"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-jshint": "~0.10.0",
+    "grunt-contrib-nodeunit": "~0.4.1",
+    "grunt-contrib-uglify": "~0.5.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
